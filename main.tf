@@ -24,6 +24,10 @@ terraform {
     vsphere = {
       version = "1.24.3"
     }
+    guacamole = {
+      source = "techBeck03/guacamole"
+      version = "1.2.4"
+    }
   }
 
   
